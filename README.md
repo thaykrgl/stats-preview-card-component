@@ -22,7 +22,10 @@ Users should be able to:
 
 ### Screenshots
 
+#### Desktop View
 <img src="./img/stats-preview-card-component-desktop.png" alt="pcc-desktop">
+
+#### Mobile View
 <img src="./img/stats-preview-card-component-mobile.png" alt="pcc-mobile">
 
 ### Links
