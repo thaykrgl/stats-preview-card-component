@@ -6,7 +6,7 @@ This is a solution to the [Stats Preview Card Component](https://www.frontendmen
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Screenshots](#screenshot)
+- [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
